@@ -1,0 +1,6 @@
+*.gz
+*.csv
+*.ipynb_checkpoints
+
+malware_test
+malware_train
