@@ -1,6 +1,7 @@
 *.gz
 *.csv
 *.ipynb_checkpoints
+README.md
 
 malware_test
 malware_train
