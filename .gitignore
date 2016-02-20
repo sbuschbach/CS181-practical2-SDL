@@ -2,3 +2,6 @@
 *.csv
 *.ipynb_checkpoints
 *.pyc
+
+test
+train
