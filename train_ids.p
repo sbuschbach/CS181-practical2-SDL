@@ -34,7 +34,7 @@ p13
 tS'b'
 tRp14
 (I1
-(L1L
+(I1
 tcnumpy
 dtype
 p15
@@ -66,7 +66,7 @@ g12
 tS'b'
 tRp23
 (I1
-(L3085L
+(I3085
 tg15
 (S'i8'
 I0
@@ -88,10 +88,10 @@ g12
 tS'b'
 tRp27
 (I1
-(L1L
-L3085L
+(I1
+I3085
 tg16
-I00
+I01
 (lp28
 S'00269ea50001a6c699d0222032d45b74b2e7e8be9'
 p29
@@ -6274,7 +6274,7 @@ g12
 tS'b'
 tRp3116
 (I1
-(L1L
+(I1
 tg16
 I00
 (lp3117
