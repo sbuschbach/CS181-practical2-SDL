@@ -2,6 +2,9 @@
 *.csv
 *.ipynb_checkpoints
 *.pyc
+*.p
+
+!call_set.p
 
 test
 train
